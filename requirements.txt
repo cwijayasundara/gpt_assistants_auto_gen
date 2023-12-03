@@ -1,0 +1,16 @@
+pyautogen
+openai
+pandas
+langchain
+beautifulsoup4
+requests
+python-dotenv
+docker
+Pillow
+ipython
+fastapi
+langserve
+duckduckgo-search
+sse_starlette
+pydantic==1.10
+arxiv
